@@ -182,6 +182,7 @@ form {
   cursor: pointer;
   border-radius: 3px;
   outline: none;
+  transition: 0.5s;
 }
 
 .wrapper .form .inputfield .btn:hover {
